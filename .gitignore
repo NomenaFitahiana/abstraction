@@ -1,0 +1,7 @@
+# Ignore compiled classes
+/bin/
+/out/
+/build/
+
+# VS Code
+.vscode/
